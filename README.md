@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odalmer
+###👋 Hi, I’m @odalmer
 - 👀 I’m interested in FullStack
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me odalmerg4@gmail.com
