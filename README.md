@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Odalmer Pimentel
 - 👀 I’m interested in FullStack
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Backend
 - 📫 How to reach me odalmerg4@gmail.com
 
 <!---
